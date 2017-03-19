@@ -1,4 +1,4 @@
-Welcome to the Glitch BETA [![Build Status](https://travis-ci.org/f0zi/test.svg?branch=glitch)](https://travis-ci.org/f0zi/test) [![Coverage Status](https://coveralls.io/repos/github/f0zi/test/badge.svg?branch=glitch)](https://coveralls.io/github/f0zi/test?branch=glitch)
+Welcome to the Glitch BETA [![Build Status](https://travis-ci.org/f0zi/test.svg?branch=master)](https://travis-ci.org/f0zi/test) [![Coverage Status](https://coveralls.io/repos/github/f0zi/test/badge.svg?branch=master)](https://coveralls.io/github/f0zi/test?branch=master)
 =========================
 
 Click `Show` in the header to see your app live. Updates to your code will instantly deploy and update live.
