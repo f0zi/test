@@ -1,3 +1,5 @@
+/* globals describe it */
+
 const chai = require('chai')
 const chaiHttp = require('chai-http')
 
