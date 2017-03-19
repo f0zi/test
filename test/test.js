@@ -7,7 +7,7 @@ const should = chai.should()
 var port = process.env.PORT || '8080'
 process.env.PORT = port
 
-var server = require('./server')
+var server = require('../server')
 
 describe('Server', function() {
   it("should have an index", function(done) {
